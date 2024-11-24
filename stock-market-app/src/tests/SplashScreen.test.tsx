@@ -1,6 +1,8 @@
+//@ts-nocheck
+import React from 'react';
+
 import { render, screen } from '@testing-library/react';
 import SplashScreen from '../components/SplashScreen';
-import React from 'react';
 
 import '@testing-library/jest-dom';
 
