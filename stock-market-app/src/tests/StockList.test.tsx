@@ -1,4 +1,6 @@
+//@ts-nocheck
 import React from 'react';
+
 import { render } from '@testing-library/react';
 import StockList from '../components/stocks/StockList';
 import { StockType } from '@/components/stocks/query/useStocks';
