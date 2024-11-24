@@ -17,7 +17,7 @@ const SplashScreen: React.FC = () =>
         className={`transition-opacity duration-1000 ${show ? 'opacity-100 animate-bounce-slow' : 'opacity-0'}`}
       >
         <img
-          src="/public/nasdaq-logo.svg"
+          src="/Images/nasdaq-logo.svg"
           alt="Nasdaq Logo"
           className="w-80 h-80"
         />
