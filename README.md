@@ -8,9 +8,10 @@ A simple React app to explore Nasdaq-listed stocks.
 - Clean and responsive UI
 
 ## How to Run
-1. Install dependencies: `pnpm install`
-2. Start the app: `pnpm run dev`
-3. Run tests: `pnpm jest`
+1. cd stock-market-app
+2. Install dependencies: `pnpm install`
+3. Start the app: `pnpm run dev`
+4. Run tests: `pnpm jest`
 
 
 ## Built With
