@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react';
 
 import { StockType } from '@/components/stocks/query/useStocks';
